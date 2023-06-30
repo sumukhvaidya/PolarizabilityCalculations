@@ -1,0 +1,8 @@
+Navigate to the directory where you want to run the code
+make the .sh file an executable by running the command in the terminal:
+chmod u+x deploy.sh
+
+Now run the file as 
+./deploy.sh 
+
+This will run the file and execute the simulations
