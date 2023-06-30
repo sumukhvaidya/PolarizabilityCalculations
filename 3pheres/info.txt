@@ -1,0 +1,10 @@
+Simulation for three spheres.
+1. Navigate to the directory where you want to run the calculation 
+2. Make the deploy.sh file an executable by running 
+    chmod u+x deploy.sh
+3. Now run the deploy.sh file by running
+    ./deploy.sh
+
+The volume is written in the outpolfinal.csv and polarization is written in outpolfinal.csv.
+Use Python or Matlab to plot it.
+I have provided a simple matlab script to plot but you will need to modify to run it.
