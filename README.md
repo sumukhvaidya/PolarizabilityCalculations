@@ -18,5 +18,7 @@ Basic prerequisites:
 I have uploaded a bash script (written by someone else) that lets you download and install most prerequisites for this.
 You mostly need to follow instruction on how to run it.
 
+![sp3_ld_1 6_hr_1 6_3d](https://github.com/sumukhvaidya/PolarizabilityCalculations/assets/19013392/5d8a1664-6707-40f6-a804-97dad9339b93)
+
 
 
